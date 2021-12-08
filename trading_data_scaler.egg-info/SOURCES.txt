@@ -1,0 +1,11 @@
+CHANGELOG.md
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+trading_data_scaler/__init__.py
+trading_data_scaler.egg-info/PKG-INFO
+trading_data_scaler.egg-info/SOURCES.txt
+trading_data_scaler.egg-info/dependency_links.txt
+trading_data_scaler.egg-info/requires.txt
+trading_data_scaler.egg-info/top_level.txt

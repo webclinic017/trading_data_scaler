@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: trading-data-scaler
+Version: 0.1.dev1+g797859e
+Summary: trading_data_scaler is a python module that scale a time series data using expanding function in pandas
+Home-page: https://github.com/Iankfc/trading_data_scaler
+Author: ece
+Author-email: odesk5@outlook.com
+License: None
+Keywords: None
+Platform: UNKNOWN
+Classifier: Developement Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9.5
+
+UNKNOWN
+
